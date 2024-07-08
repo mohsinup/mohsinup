@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mohsinup aka MOHD MOHSIN RAZA
-- 👀 I’m interested in Web Development
+- 👋 Hi, I’m @mohsinup aka MOHSIN RAZA
+- 👀 Interested in Web Development
 - 🌱 I’m currently in Last year of Bachelors of Technology.
 - 📫 T reach me https://www.linkedin.com/in/mohd-mohsin-raza
 
